@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ecq2e6.juragan89.xyz/sitemap.xml
